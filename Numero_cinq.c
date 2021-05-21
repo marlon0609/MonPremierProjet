@@ -30,7 +30,8 @@ int main(){
 			printf("E%d : %d", i, tab[i]);
 		}
 	} else {
-		printf("Cet emplacement n'existe pas dans le tableau !");
+		printf("Cet emplacement n'existe pas dans le tableau ! ");
+		printf("veuillez saisir à nouveau ! ")
 	}
 	
 }
